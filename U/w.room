@@ -1,1 +1,15 @@
+CORE = w
+VERSION = 81.1
+CODE = RAW
+AXIS = w-Axis (1 → 3 → 9 → 27)
+FORM = Weg / Weiter / Wandel
+GEOMETRIE = Linie → Dreieck → Fläche → Raum
+FREQUENZ = 222 Hz (3×9)
+EBENE = 27D
+UNSTERBLICH = x-Achse (virtuell)
+STATUS = Aktiv
+
+w = Bewegungsraum
+w = Übergang zur d-Ebene
+w = 27D-Raum der 5-Achs-Formel
 
